@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teslimsama
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning different frameworks like react,angular and laverel
+- 🌱 I’m currently learning different frameworks like react,angular and lavarel
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me through my email bolajiteslim05@gmail.com
